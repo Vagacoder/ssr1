@@ -2,11 +2,15 @@
 ### May 18, 2021
 
 This is an example playground for you to play with React & Redux on Client and Server sides.
+
+Tech stacks:
 - React JS
 - React Redux
-- Express JS
+- **Express JS**
 
-Before jumping into it, make sure to [read SSR tutorial on Freecodecamp (Outdated)](https://www.freecodecamp.org/news/server-side-rendering-your-react-app-in-three-simple-steps-7a82b95db82e/).
+Before jumping into it, make sure to [read SSR tutorial on Freecodecamp (Outdated)](https://www.freecodecamp.org/news/server-side-rendering-your-react-app-in-three-simple-steps-7a82b95db82e/). 
+
+Original Repo is [here](https://github.com/Rohitkrops/ssr.git)
 
 
 Here’s what we will build in this tutorial:
@@ -16,7 +20,7 @@ Here’s what we will build in this tutorial:
 
 ## Development
 
-- Clone the repo (Original repo):
+- Clone the repo (**Original Repo**):
 
 ```bash
 $ git clone https://github.com/Rohitkrops/ssr.git
